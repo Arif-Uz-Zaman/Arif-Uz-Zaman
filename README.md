@@ -9,7 +9,7 @@
 
   - 🤔 &nbsp; Exploring new technologies.
   - 🎓 &nbsp; Studied Computer Science and Engineering at the University of Asia Pacific.
-  - 🌱 &nbsp; Learning more about Automation Testing and API testing.
+  - 🌱 &nbsp; Learning more about Automation Testing.
   - ✍️ &nbsp; Pursuing Programming and Gaming as hobbies/side hustles.  
 </div> 
 <!-- </div>
